@@ -1,4 +1,8 @@
 body {
+	main {
+	background-image: url("womensmarch.jpg");
+	opacity: 0.5;
+}
 }
 
 img {
