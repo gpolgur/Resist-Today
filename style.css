@@ -9,6 +9,7 @@ header {
 	font-size: 72px;
 	font-family: "Impact";
 	grid-column: span 2;
+	text-align: center;
 }
 
 html {
