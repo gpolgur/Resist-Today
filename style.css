@@ -1,0 +1,31 @@
+body {
+}
+
+img {
+	width: 100%;
+}
+
+header {
+	font-size: 72px;
+	font-family: "Impact";
+	grid-column: span 2;
+}
+
+html {
+	font-size: 20px;
+	font-family: "Georgia";
+	padding: 0px;
+	margin: 0px;
+}
+
+.container {
+	border: 1px solid black;
+	display: grid;
+	min-height: 100vh;
+	grid-template-columns: 20% auto;
+	grid-template-rows: auto 1fr;
+}
+
+nav {
+	background-color: lightblue;
+}
