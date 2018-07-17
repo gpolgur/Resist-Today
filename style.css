@@ -29,11 +29,11 @@ main{
 }
 
 p{
-	font-size: 18px;
+	font-size: 100%;
 }
 
 #mission{
-	margin-top: 350px;
+	margin-top: 50%;
 
 }
 
@@ -42,5 +42,10 @@ p{
 	margin-right: 30px;
 	font-family: Impact;
 	font-size: 60px;
+}
+
+
+#sign{
+	margin-top: 550px;
 }
 
