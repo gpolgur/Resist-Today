@@ -1,8 +1,6 @@
-body {
-	main {
+main {
 	background-image: url("womensmarch.jpg");
 	opacity: 0.5;
-}
 }
 
 img {
@@ -33,4 +31,9 @@ html {
 
 nav {
 	background-color: lightblue;
+}
+
+button{
+	height: 50px;
+	width: 100%;
 }
